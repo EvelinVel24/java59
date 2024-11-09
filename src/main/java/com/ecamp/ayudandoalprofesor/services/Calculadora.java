@@ -1,6 +1,6 @@
 package main.java.com.ecamp.ayudandoalprofesor.services;
 
-import main.java.com.ecamp.ayudandoalprofesor.services;
+import main.java.com.ecamp.ayudandoalprofesor.models.Alumno;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;

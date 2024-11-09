@@ -1,7 +1,5 @@
 package main.java.com.ecamp.ayudandoalprofesor.config;
 
-import main.java.com.ecamp.ayudandoalprofesor.config;
-
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import java.util.ArrayList;
